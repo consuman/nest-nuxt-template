@@ -14,9 +14,6 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
-
-# generate static project
-$ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For detailed explanation on how things work, check out [This Article](https://medium.com/@liutingchun_95744/combining-nuxt-js-and-nestjs-into-a-single-application-c67b541dcd6).
